@@ -120,7 +120,7 @@ author:
       icon: "fab fa-zhihu"
       url: "https://www.zhihu.com/people/suntrise"
     - label: "少数派"
-      icon: ""fas fa-pi"
+      icon: "fas fa-pi"
       url: "https://sspai.com/u/suntrise/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

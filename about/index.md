@@ -17,7 +17,8 @@ Suntrise(简称 STR)的小站啦
 
 ![keyv9](https://github.com/suntrise/suntrise.github.io/assets/89229642/87b96f98-38a8-4f15-af66-90bdf8364d3c)
 
-![img_cd_01](https://github.com/user-attachments/assets/02d01f8a-b24d-405e-9d7d-20f5b7662c05)
+![img_7th](https://github.com/user-attachments/assets/d7ac256f-d8e4-49b2-8485-bbfed15bdb77)
+
 
 
 
